@@ -27,7 +27,7 @@ const dummyData = {
   content: [{
     type: "paragraph",
     data: {
-      text: "Hello World"
+      text: "Hello World."
     }
   }]
 };
